@@ -1,5 +1,5 @@
 {
-    "name": "chicken rain",
+    "name": "/spawn_warden commandd",
     "description": "",
     "dependencies": {
         "core": "*",
